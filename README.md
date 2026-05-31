@@ -3,12 +3,14 @@
 <!-- Typing SVG Animation Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+there%2C+I'm+Kareem+Masoud+%F0%9F%91%8B;Electrical+%26+Communications+Engineer)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kareem%20Masoud&fontSize=60&fontColor=fff&fontAlignY=35&desc=Electrical%20%26%20Communications%20Engineer&descAlignY=60&descAlign=50&v=2" width="100%" />
+<!-- Waving Banner — desc uses + instead of & to avoid SVG XML entity parse error -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kareem%20Masoud&fontSize=60&fontColor=fff&fontAlignY=35&desc=Electrical%20%2B%20Communications%20Engineer&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Masoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareemmas3ud)
 [![IEEE Email](https://img.shields.io/badge/IEEE%20Email-kareemmas3ud%40ieee.org-00629B?style=for-the-badge&logo=ieee&logoColor=white)](mailto:kareemmas3ud@ieee.org)
 [![GitHub](https://img.shields.io/badge/GitHub-KareemMas3ud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KareemMas3ud)
+![Visitor Count](https://komarev.com/ghpvc/?username=KareemMas3ud&style=for-the-badge&color=00c9ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -138,7 +140,27 @@ Built a multimodal Gemini-powered RAG (Retrieval-Augmented Generation) assistant
 
 ---
 
-## 🏆 Achievements & Affiliations
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KareemMas3ud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Kareem's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KareemMas3ud&bg_color=0d1117&color=00c9ff&line=00c9ff&point=ff6b35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏅 Achievements & Affiliations
 
 | 🏅 Achievement | 📋 Details |
 |---|---|
@@ -156,6 +178,15 @@ Built a multimodal Gemini-powered RAG (Retrieval-Augmented Generation) assistant
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareemmas3ud)
 [![Email](https://img.shields.io/badge/IEEE%20Email-kareemmas3ud%40ieee.org-%2300629B?style=for-the-badge&logo=ieee&logoColor=white)](mailto:kareemmas3ud@ieee.org)
+
+<br/>
+
+<!-- Snake animation — auto-generated via GitHub Actions on the target repo -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KareemMas3ud/KareemMas3ud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KareemMas3ud/KareemMas3ud/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KareemMas3ud/KareemMas3ud/output/github-snake-dark.svg" />
+</picture>
 
 <br/>
 
