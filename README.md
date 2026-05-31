@@ -200,6 +200,16 @@ Built a multimodal Gemini-powered RAG (Retrieval-Augmented Generation) assistant
 
 ---
 
+## 💬 Tech Quote of the Day
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Developer Quote" />
+  </a>
+</div>
+
+---
+
 <div align="center">
 
 ### 🌐 Let's Connect
