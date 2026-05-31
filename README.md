@@ -160,15 +160,43 @@ Built a multimodal Gemini-powered RAG (Retrieval-Augmented Generation) assistant
 
 ---
 
-## 🏅 Achievements & Affiliations
+## 🏅 Experience, Certifications & Leadership
 
-| 🏅 Achievement | 📋 Details |
-|---|---|
-| 🎓 **New Valley Governorate Scholar** | 100% Fully Funded Scholarship — Top-ranked student selection |
-| 🌐 **IEEE BUE Vice Chairman** | IEEE BUE Student Branch Leadership |
-| 💡 **IEEE SIGHT Chapter Founder** | Established BUE's Special Interest Group on Humanitarian Technology |
-| 🌍 **UNDP COP30 Fellow** | Technical Policy Paper: AI in the Transport Sector |
-| 📡 **Dual Degree Candidate** | BUE × London South Bank University — Electrical & Communications Eng. |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Internships & Fellowships
+- **I&C Engineering Intern** — *ENPPI*
+- **Network Infrastructure Intern** — *ITIDA & NTI*
+- **Summer Internship Program** — *CIB*
+- **COP30 Simulation Fellow** — *UNDP & BUE*
+- **Ambassador & TOT** — *NIGSD*
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Technical Certifications
+- **Master 5G Mobile Network (HCIA-5G)** — *Huawei & NTI*
+- **Optic Fiber & DWDM** — *ICTHub*
+- **IT Essentials: PC Hardware & Software** — *Cisco*
+- **Sustainability Foundations** — *PMI & LinkedIn Learning*
+- **Global Circles** — *Soliya*
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏛️ Leadership & Affiliations
+- **Academic Honors:** 100% Fully Funded New Valley Governorate Scholar, Dual Degree Candidate (BUE × LSBU)
+- **IEEE Memberships:** Active Member (2+ Years), Computer Society, Sensors Council, Communications Society
+- **IEEE BUE Chapter:** Vice Chairman, SIGHT Founder, Secretary, WIE Treasurer, Induction & Recruitment
+- **Other Affiliations:** GAoS Membership, HIIVE Program Collaborator
+
+</td>
+</tr>
+</table>
 
 ---
 
