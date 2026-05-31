@@ -3,7 +3,7 @@
 <!-- Typing SVG Animation Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+there%2C+I'm+Kareem+Masoud+%F0%9F%91%8B;Electrical+%26+Communications+Engineer)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kareem%20Masoud&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Electrical%20%26%20Communications%20Engineer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kareem%20Masoud&fontSize=60&fontColor=fff&fontAlignY=35&desc=Electrical%20%26%20Communications%20Engineer&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Masoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareemmas3ud)
@@ -126,9 +126,9 @@ Built a multimodal Gemini-powered RAG (Retrieval-Augmented Generation) assistant
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KareemMas3ud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KareemMas3ud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00c9ff&icon_color=00c9ff&text_color=c9d1d9" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KareemMas3ud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KareemMas3ud&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9ff&text_color=c9d1d9" />
 
 <br/><br/>
 
@@ -163,6 +163,6 @@ Built a multimodal Gemini-powered RAG (Retrieval-Augmented Generation) assistant
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 </div>
