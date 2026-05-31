@@ -3,7 +3,7 @@
 <!-- Typing SVG Animation Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=800&color=00C9FF&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+there%2C+I'm+Kareem+Masoud+%F0%9F%91%8B;Electrical+%26+Communications+Engineer)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kareem%20Masoud&fontSize=60&fontColor=fff&fontAlignY=35&desc=Electrical%20%26%20Communications%20Engineer&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kareem%20Masoud&fontSize=60&fontColor=fff&fontAlignY=35&desc=Electrical%20%26%20Communications%20Engineer&descAlignY=60&descAlign=50&v=2" width="100%" />
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kareem%20Masoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareemmas3ud)
