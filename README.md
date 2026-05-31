@@ -181,12 +181,8 @@ Built a multimodal Gemini-powered RAG (Retrieval-Augmented Generation) assistant
 
 <br/>
 
-<!-- Snake animation — auto-generated via GitHub Actions on the target repo -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KareemMas3ud/KareemMas3ud/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KareemMas3ud/KareemMas3ud/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/KareemMas3ud/KareemMas3ud/output/github-snake-dark.svg" />
-</picture>
+<!-- Contribution heatmap -->
+<img src="https://ghchart.rshah009.com/00c9ff/KareemMas3ud" alt="Kareem's GitHub Contribution Chart" width="100%" />
 
 <br/>
 
